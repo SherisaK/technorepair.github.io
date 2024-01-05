@@ -1,0 +1,159 @@
+#log{
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    margin-bottom: 45px;
+}
+
+body{
+  margin-top: 10px;
+  margin-bottom: auto;
+  padding-left: 0%;
+  padding-right: 0%;
+  scroll-behavior:auto;
+  background-color: rgb(49, 60, 71);
+}
+
+#mis{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+#log::before {
+    content: url('d6a196e32caa4f02bb2f7556e419a8b3 (1).png');
+    margin-right: 10px;
+  }
+
+#nav{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+
+nav {
+    overflow: hidden;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    float:right;
+  }
+
+ .navbar-nav {
+    justify-content: flex-end;
+}
+
+  nav li:nth-child(1):hover {
+    background-color: rgb(95, 36, 36);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  nav li:nth-child(2) :hover{
+    background-color: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  nav li:nth-child(3) :hover{
+    background-color: rgb(81, 94, 131);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  nav li:nth-child(4) :hover{
+    background-color: rgb(90, 89, 89);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  nav li:nth-child(5) :hover{
+    background-color: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  #mission{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: rgb(103, 127, 151);
+  }
+
+  #mission:hover{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+#hea{
+  font-family:'Courier New', Courier, monospace;
+  font-style:italic;
+  font-size: 40px;
+  text-align: center;
+  font-weight: 900;
+  
+}
+
+#hea:hover{
+  font-size: 50px;
+}
+
+th {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+#tr2{
+  text-align: justify;
+  font-size: 18px;
+  text-align: center;
+}
+.table{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+ 
+}
+
+table{
+  background-color: rgb(103, 127, 151);
+}
+
+.table :hover{
+  background-color: rgb(103, 127, 151);
+  font-style: italic;
+
+}
+.body{
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+.body:hover {
+    opacity: 1;
+  };
+
+#head{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+#info{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight:bold;
+}
+
+#caption{
+  font-family: cursive;
+  text-align: center;
+  font-size: smaller;
+  font:caption;
+  font-weight: 800;
+  background-color: rgb(79, 94, 163);
+}
+
+#head{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
