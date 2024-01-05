@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TECHNO REAPAIRS</title>
+        <link rel="stylesheet" href="style2.css"/>
+        <link rel="contactus page" href="">
+        
+
+    </head>
+    <body>
+        <h1 id="log">TECHNO REPAIRS</h1>
+        <div style="margin: 20px;"></div>
+        <style>
+            body {
+              background-image: url('Download premium image of Green plain background paper texture by Wit about plain background, green backgrounds, green background paper texture, green texture background, and paper background design 2609761.jpg');
+            }
+          </style>
+        <div>
+        <nav>
+         <ul>
+            <li><a href="draft websit" id="na1">Home</a></li>
+            <li><a href="services" id="na2">Services</a></li>
+            <li><a href="about" id="na3">About</a></li>
+            <li><a href="gallery" id="na4">Gallery</a></li>
+            <li><a href="contactus" id="na5">Contact Us</a></li>
+         </ul>    
+        </nav>
+        </div>
+    </body>
+</html>
